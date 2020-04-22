@@ -9,4 +9,6 @@ class Vehicle
   def go
     "vrrrrrrroom!"
   end
+  
+  def 
 end
